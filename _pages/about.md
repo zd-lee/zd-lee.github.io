@@ -9,15 +9,15 @@ redirect_from:
 
 <!-- <img src="images/self.jpg" alt="Zhuodong Li" style="float: right; margin-left: 20px; margin-bottom: 20px; border-radius: 10px;"> -->
 
-I'm a M.S. student in Computer Graphics at the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/). My research interests include computer graphics, point cloud processing, mesh processing, and geometric modeling.
+I recently received my M.S. degree in Computer Graphics from the [University of Chinese Academy of Sciences](https://www.ucas.ac.cn/), where I was fortunate to be advised by [Prof. Fei Hou](https://lcs.ios.ac.cn/~houf/index.html) from the Institute of Software, Chinese Academy of Sciences.
 
-I am very fortunate to be advised by [Prof. Fei Hou](https://lcs.ios.ac.cn/~houf/index.html) from the Institute of Software, Chinese Academy of Sciences.
+Starting in September 2026, I will pursue my Ph.D. at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) under the supervision of [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/).
 
-I received my B.S. degree in Digital Media Technology from [Shandong University](https://www.sdu.edu.cn/) in 2023. 
+Previously, I received my B.S. degree in Digital Media Technology from [Shandong University](https://www.sdu.edu.cn/) in 2023.
 
-I will begin my Ph.D. studies at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) in September 2026 under the supervision of [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/).
+My research interests include computer graphics, point cloud processing, mesh processing, and geometric modeling.
 
-My primary research focus during graduate studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been published in ACM Transactions on Graphics (SIGGRAPH 2025), and a follow-up work on super-large-scale point cloud orientation has been accepted to SIGGRAPH 2026. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
+My primary research focus during my master's studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been published in ACM Transactions on Graphics (SIGGRAPH 2025), and a follow-up work on super-large-scale point cloud orientation has been accepted to SIGGRAPH 2026. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
 
 
 ## Publications
