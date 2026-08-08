@@ -45,7 +45,10 @@ My primary research focus during graduate studies was point cloud orientation, s
   </div>
   <div>
     <h3 style="color: #D2691E; margin-top: 0; margin-bottom: 8px; font-size: 18px;">MegaNorm: Local Patch Embeddings for Efficient and Robust Point Normal Orientation at Super-Large Scale</h3>
-    <p style="margin: 5px 0; font-style: italic;"><strong>Zhuodong Li</strong>, Zengke Liu, Fei Hou, Xuhui Chen, Wencheng Wang, Ying He</p>
+    <p style="margin: 5px 0; font-style: italic;">
+      <strong>Zhuodong Li</strong><sup>*</sup>, Zengke Liu<sup>*</sup>, Fei Hou, Xuhui Chen, Wencheng Wang, Ying He<br>
+      <span style="font-size: 0.9em;"><sup>*</sup> Equal contribution</span>
+    </p>
     <p style="margin: 5px 0; font-weight: bold;">SIGGRAPH Conference Papers 2026</p>
     <p style="margin: 10px 0;">
       <a href="https://doi.org/10.1145/3799902.3811139" style="margin-right: 10px;">[Paper]</a>
