@@ -15,7 +15,7 @@ I am very fortunate to be advised by [Prof. Fei Hou](https://lcs.ios.ac.cn/~houf
 
 I received my B.S. degree in Digital Media Technology from [Shandong University](https://www.sdu.edu.cn/) in 2023. 
 
-I am currently seeking a Ph.D. position for fall 2026 enrollment.
+I will begin my Ph.D. studies at [The Hong Kong University of Science and Technology (Guangzhou)](https://hkust-gz.edu.cn/) in September 2026 under the supervision of [Prof. Zeyu Wang](https://cislab.hkust-gz.edu.cn/members/zeyu-wang/).
 
 My primary research focus during graduate studies was point cloud orientation, specifically determining normal orientation consistency for non-watertight point clouds. Related work has been published in ACM Transactions on Graphics (SIGGRAPH 2025), and a follow-up work on super-large-scale point cloud orientation has been accepted to SIGGRAPH 2026. I aspire to leverage my experience in geometric processing to tackle challenges in 3D generation during my doctoral studies. I may also pursue other graphics-related domains such as 3D reconstruction and geometric processing.
 
